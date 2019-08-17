@@ -9,6 +9,5 @@ Following is the pseudocode for the Above Program
   2. Iterate through dataset and fill the array for the classification.\
 3.Take x,y cordinates and K ie distance.\
 4.Calculate “d(x, xi)” i =1, 2, ….., n; where d denotes the Euclidean distance between the points.\
-6.Let k be a +ve integer, take the first k distances from this sorted list.\
-7.Find those k-points corresponding to these k-distances.\
+6.Let k be a +ve integer, take the first k distances point from x,y cordinates.\
 8.Display Ans ie Bad, Good, Average which has most number of most nearest class.
